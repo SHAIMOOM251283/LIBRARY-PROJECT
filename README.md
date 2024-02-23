@@ -21,6 +21,4 @@ Features
     Python 3.x
     tkinter library
     
-# License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
